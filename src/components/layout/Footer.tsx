@@ -2,15 +2,15 @@ import { Facebook, Instagram, Phone, Mail, MapPin, MessageCircle } from 'lucide-
 
 const Footer = () => {
   return (
-    <footer className="bg-blue-900 text-white py-12">
-      <div className="section-container mr-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+     <footer className="bg-blue-900 text-white py-12">
+      <div className="section-container mx-auto max-w-6xl px-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
           <div >
             <h3 className="text-xl font-bold mb-4 ">خدام ديلفري</h3>
             <p className="mb-4 opacity-80">
               نُوصِّل رسالة الخلاص بكل مكان، بكل وقت، وبكل قلب ❤️
             </p>
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 justify-center">
               <a href="https://www.facebook.com/profile.php?id=100070693035679&locale=ar_AR" className="bg-blue-800 p-2 rounded-full hover:bg-gold-500 transition-colors">
                 <Facebook size={20} />
               </a>
@@ -38,7 +38,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">تواصل معنا</h3>
             <div className="space-y-3">
               <div className="flex items-center space-x-3  ">
-                <MapPin size={20} className="text-gold-400" />
+                <MapPin size={20} className="text-gold" />
                 <span>القاهرة، مصر</span>
               </div>
               <div className="flex items-center space-x-3  ">
