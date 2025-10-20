@@ -7,17 +7,17 @@ const Activities = () => {
     {
       title: "لقاءات الشباب الأسبوعية",
       description: "اجتماعات أسبوعية للصلاة، العبادة، والدراسة الكتابية في جو شبابي حماسي.",
-      image: "../../public/bible-study-group-discussion.jpg"
+      image: "/bible-study-group-discussion.jpg"
     },
     {
       title: "معسكرات الخدمة",
       description: "معسكرات صيفية وشتوية للشباب لتنمية مهارات الخدمة والقيادة الروحية.",
-      image: "../../public/evangelical-campaign-outdoor-event.jpg"
+      image: "/evangelical-campaign-outdoor-event.jpg"
     },
     {
       title: "مبادرات المجتمع",
       description: "مشاريع خدمة مجتمعية مثل توزيع الوجبات، زيارة المرضى، ودعم الأسر المحتاجة.",
-      image: "../../public/community-service-helping-people.jpg"
+      image: "/community-service-helping-people.jpg"
     },
     {
       title: "ورش العمل الإبداعية",

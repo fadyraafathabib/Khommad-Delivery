@@ -9,42 +9,42 @@ const Media = () => {
   const photos = [
   {
     id: 0,
-    src: '../../public/bible-study-group-discussion.jpg',  // صورة من مجلد المشروع
+    src: '/bible-study-group-discussion.jpg',  // صورة من مجلد المشروع
     alt: 'صورة نشاط 1'
   },
   {
     id: 1,
-    src: '../../public/community-service-helping-people.jpg',
+    src: '/community-service-helping-people.jpg',
     alt: 'صورة نشاط 2'
   },
   {
     id: 2,
-    src: '../../public/educational-video-faith-teaching.jpg',  // صورة من مجلد المشروع
+    src: '/educational-video-faith-teaching.jpg',  // صورة من مجلد المشروع
     alt: 'صورة نشاط 1'
   },
   {
     id: 3,
-    src: '../../public/evangelical-campaign-outdoor-event.jpg',
+    src: '/evangelical-campaign-outdoor-event.jpg',
     alt: 'صورة نشاط 2'
   },
   {
     id: 4,
-    src: '../../public/leadership-workshop.png',  // صورة من مجلد المشروع
+    src: '/leadership-workshop.png',  // صورة من مجلد المشروع
     alt: 'صورة نشاط 1'
   },
   {
     id: 5,
-    src: '../../public/testimony-video-testimonial.jpg',
+    src: '/testimony-video-testimonial.jpg',
     alt: 'صورة نشاط 2'
   },
   {
     id: 6,
-    src: '../../public/young-person-testimony-inspiration.jpg',  // صورة من مجلد المشروع
+    src: '/young-person-testimony-inspiration.jpg',  // صورة من مجلد المشروع
     alt: 'صورة نشاط 1'
   },
   {
     id: 7,
-    src: '../../public/spiritual-music-concert-worship.jpg',
+    src: '/spiritual-music-concert-worship.jpg',
     alt: 'صورة نشاط 2'
   },
  
