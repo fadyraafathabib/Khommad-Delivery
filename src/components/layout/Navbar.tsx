@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="section-container flex items-center justify-between py-4">
         <div className="flex items-center space-x-2 mr-4">
           <div className="w-10 h-10 rounded-full bg-gradient-to-r from-blue-600 to-gold-500 flex items-center justify-center">
-            <span className="text-white font-bold text-xl"><img src="../../../public/logo.jpg" alt="" /></span>
+            <span className="text-white font-bold text-xl"><img src="/logo.jpg" alt="" /></span>
           </div>
           <h1 className="text-xl font-bold text-blue-900 ">خدام ديلفري</h1>
         </div>
